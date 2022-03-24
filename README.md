@@ -1,1 +1,3 @@
-# IPC1_Practica2_202100305
+# JOSÉ ALEXANDER LÓPEZ LÓPEZ
+202100305
+Laboratorio de Introducción a la Programación y Computación 1
